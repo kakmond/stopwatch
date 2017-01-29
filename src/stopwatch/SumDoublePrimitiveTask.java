@@ -9,9 +9,12 @@ package stopwatch;
 
 public class SumDoublePrimitiveTask implements Runnable {
 
-	static final int ARRAY_SIZE = 500000; // size of the array
-	private int counter; // counter is times to add a number
-	private double sum; // sum is the sum of all number
+	/** size of the array */
+	static final int ARRAY_SIZE = 500000; 
+	/** counter is times to add a number */
+	private int counter;
+	/** sum is the sum of all number */
+	private double sum; 
 
 	/**
 	 * Initialize SumDoublePrimitiveTask.
