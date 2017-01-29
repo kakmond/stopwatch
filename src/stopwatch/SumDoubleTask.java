@@ -1,8 +1,7 @@
 package stopwatch;
 
 /**
- * add Double objects from an array. You need a large counter value to get a
- * measurable time.
+ * add Double objects from an array. You need a large counter value to get a measurable time.
  * 
  * @author Wongsathorn Panichkurkul
  *
