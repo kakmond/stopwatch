@@ -1,8 +1,7 @@
 package stopwatch;
 
 /**
- * A Stopwatch that measures elapsed time between a starting time and stopping
- * time, or until the present time.
+ * A Stopwatch that measures elapsed time between a starting time and stopping time, or until the present time.
  * 
  * @author Wongsathorn Panichkurkul
  * @version 1.0
@@ -34,9 +33,8 @@ public class Stopwatch {
 	}
 
 	/**
-	 * 
-	 * @return status of the stopwatch, true if the stopwatch is running, false
-	 *         if the the stopwatch is not running.
+	 * check status of stopwatch is running or not
+	 * @return status of the stopwatch, true if the stopwatch is running, false if the the stopwatch is not running.
 	 */
 	public boolean isRunning() {
 		return isOn;
