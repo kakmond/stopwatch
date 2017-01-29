@@ -3,8 +3,7 @@ package stopwatch;
 import java.math.BigDecimal;
 
 /**
- * add BigDecimal objects from an array. You need a large counter value to get a
- * measurable time.
+ * add BigDecimal objects from an array. You need a large counter value to get a measurable time.
  * 
  * @author Wongsathorn Panichkurkul
  *
