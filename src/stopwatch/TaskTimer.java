@@ -1,7 +1,7 @@
 package stopwatch;
 
 /**
- * a TaskTimer class that will compute and print the elapsed time for any task,
+ * a TaskTimer class that will compute and print the elapsed time for any task
  * 
  * @author Wongsathorn Panichkurkul
  *
