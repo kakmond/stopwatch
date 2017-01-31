@@ -18,7 +18,7 @@ public class SumBigDecimalTask implements Runnable {
 	private BigDecimal sum;
 
 	/**
-	 * Initialize SumBigDecimalTask.
+	 * Initialize SumBigDecimalTask with counter.
 	 * 
 	 * @param counter is times that you want to add a number
 	 */
