@@ -17,7 +17,7 @@ public class SumDoubleTask implements Runnable {
 	private Double sum;
 
 	/**
-	 * Initialize SumDoubleTask.
+	 * Initialize SumDoubleTask with counter.
 	 * 
 	 * @param counter is times that you want to add a number
 	 */
