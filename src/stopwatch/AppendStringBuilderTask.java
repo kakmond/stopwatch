@@ -15,7 +15,7 @@ public class AppendStringBuilderTask implements Runnable {
 	private String result; 
 
 	/**
-	 * Initialize AppendStringBuilderTask.
+	 * Initialize AppendStringBuilderTask with size.
 	 * 
 	 * @param size is the length of string result
 	 */
