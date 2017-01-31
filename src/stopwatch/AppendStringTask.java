@@ -8,7 +8,7 @@ package stopwatch;
  */
 public class AppendStringTask implements Runnable {
 
-	/** size is the length of string result */
+	/** size is the length of string result with size*/
 	private int size; 
 	/** result is the result string */
 	private String result; 
